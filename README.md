@@ -126,6 +126,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [NoScript](https://noscript.net/) - Fine-grained script blocking for advanced users.
 - [Privacy Badger](https://privacybadger.org/) - Tracker blocker from the Electronic Frontier Foundation.
 - [uBlock Origin](https://github.com/gorhill/uBlock) - Efficient wide-spectrum content blocker.
+- [Unseen](https://laboskiriste.github.io/unseen/) - Blocks hidden email tracking pixels in Gmail on the web while normal images still load.
 
 ## VPNs, Tor, and Network Privacy
 
